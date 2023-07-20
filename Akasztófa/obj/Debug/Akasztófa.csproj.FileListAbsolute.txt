@@ -1,0 +1,14 @@
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\bin\Debug\Akasztófa.exe.config
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\bin\Debug\Akasztófa.exe
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\bin\Debug\Akasztófa.pdb
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.csproj.AssemblyReference.cache
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.csproj.CoreCompileInputs.cache
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.exe
+E:\Iskola\11.D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.pdb
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\bin\Debug\Akasztófa.exe.config
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\bin\Debug\Akasztófa.exe
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\bin\Debug\Akasztófa.pdb
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.csproj.AssemblyReference.cache
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.csproj.CoreCompileInputs.cache
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.exe
+F:\11D\Asztali alkalmazás fejlesztés\Projektmunka\0222\Akasztófa\Akasztófa\obj\Debug\Akasztófa.pdb
